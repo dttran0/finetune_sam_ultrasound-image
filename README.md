@@ -1,1 +1,3 @@
-# finetune_sam_ultrasound-image
+# Finetune_sam_ultrasound-image
+
+Finetuning script for ultrasound images 
